@@ -1,8 +1,12 @@
-## Hello World 👋
+## Hello World 👋 
 Olá, Me chamo Danilo e este é meu GITHUB exclusivo para os estudos e atendimento das demandas profissionais.
 
-## Descrição Profisional
-Trabalho atualmente, na empresa MLHS Tecnologia e Consultoria. Ocupo o cargo da analista de suporte e desenvolvimento de soluções.
+## Descrição Profisional 🔭
+Trabalho atualmente, na empresa [MLHS Tecnologia e Consultoria](https://www.linkedin.com/company/milhaus-consultoria-&-desenvolvimento/posts/?feedView=all). Ocupo o cargo da analista de suporte e desenvolvimento de soluções.
+Atuando com banco de Dados SQL Server e desenvolvimentos em C#.<br>
+Tenho conhecimentos em JavaScript, Angular, React e Java.
+
+
 
 
 <!--
